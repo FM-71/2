@@ -1,5 +1,5 @@
 # Домашнее задание к занятию "2. DOM"
-https://FM-71.github.io/2/
+https://FM-71.github.io/2/src/index
 **CI** [![Build status](https://ci.appveyor.com/api/projects/status/xkidh2i33sqcurdk?svg=true)](https://ci.appveyor.com/project/FM-71/2)    [GitHub Pages](https://FM-71.github.io/2/)
 
 
