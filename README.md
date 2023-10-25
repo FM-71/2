@@ -1,7 +1,12 @@
 # Домашнее задание к занятию "2. DOM"
-https://FM-71.github.io/2/src/index
+https://FM-71.github.io/2/yml
+
+
 https://FM-71.github.io/2/src/index.html
+
+
 https://FM-71.github.io/2/src/index.js
+
 
  [GitHub Pages](https://FM-71.github.io/2/)
 
